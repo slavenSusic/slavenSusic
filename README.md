@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @slavenSusic
-- 👀 
-- 🌱 I’m currently learning javaScript...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀
 
 <!---
 slavenSusic/slavenSusic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
